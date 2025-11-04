@@ -1,4 +1,4 @@
-# ¡Bienvenido a mi Portafolio! 👋
+# ¡Bienvenido a mi Portafolio!
 
 ### ¡Hola! Soy **Alexis**
 
