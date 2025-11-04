@@ -15,3 +15,4 @@
 * **Modificación de commits:** Deshacer cambios (con `git reset`) o modificar el último commit (con `git commit --amend`).
 
 ## Aportes y sugerencias:
+* **Uso de Fork** Copia un repositorio de otro usuario y te permite trabajar en él sin modificar el trabajo original.
