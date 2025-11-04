@@ -15,3 +15,5 @@
 * **Modificación de commits:** Deshacer cambios (con `git reset`) o modificar el último commit (con `git commit --amend`).
 
 ## Aportes y sugerencias:
+
++ **Recuerda que tienes que corregir conflictos si al hacer merge existen conflictos, resolverlos manualmente**
