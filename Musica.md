@@ -13,8 +13,3 @@
 | ![Un verano sin ti](Imagenes/Un_verano_sin_ti.png) | *Un verano sin ti* | Bad Bunny | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_lPKZ-lFNR8-6kDNPm3zxJc6ipsS7ibrc0&si=6U9YKlw5uSKbsUVW) |
 | ![Todos los dias todo el dia](Imagenes/Todos_los_dias_todo_el_dia.png) | *Todos los dias todo el dia* | Latin Mafia | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_kgxNhJJB3ylJYZyTuio8QlrFdShmypTGg&si=WcHaFvUCdTcDNgIu) |
 
----
-
-## Vibe Reciente
-
-La canción que más define la música que escucho últimamente es [**"Pixelated Kisses" de Joji**](https://spotify.link/WmBa6LoqBXb).
