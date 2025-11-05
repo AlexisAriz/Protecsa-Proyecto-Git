@@ -15,3 +15,4 @@
 * **Modificación de commits:** Deshacer cambios (con `git reset`) o modificar el último commit (con `git commit --amend`).
 
 ## Aportes y sugerencias:
+- Tip: Hacer commits pequeños y claros facilita el trabajo en equipo
